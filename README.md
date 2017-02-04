@@ -71,7 +71,7 @@ Navigate down and select the Web Application project. The ASP.NET generator crea
 
 Image src: [Create an ASP.NET app](http://docs.asp.net/en/latest/client-side/yeoman.html#create-an-asp-net-app)
 
-Restore the project’s NuGet package dependencies:
+Restore the project’s NuGet package dependencies: 
 
     dnu restore
 
