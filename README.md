@@ -79,7 +79,7 @@ Build the project:
 
     dnvm use default -r coreclr && dnu build --framework dnxcore50
 
-Running locally using Kestrel:
+Running locally using Kestrel: 
 
     dnx web
 
