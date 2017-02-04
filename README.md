@@ -67,7 +67,7 @@ To create a new ASP.NET project:
 Navigate down and select the Web Application project. The ASP.NET generator creates ASP.NET 5 DNX project that can be loaded into Visual Studio 2015 or run from the command line.
 
 
-![yoman aspnet generator](https://dl.dropboxusercontent.com/content_link/9tmMS7f0VGQpIiiNtNCeQIpspMQquESGD67bIBbvSfbaOjaTg2IpBanvE0Omw0Cf/file)
+![yoman aspnet generator](https://i.imgur.com/QLW9dtn.gifv)
 
 Image src: [Create an ASP.NET app](http://docs.asp.net/en/latest/client-side/yeoman.html#create-an-asp-net-app)
 
